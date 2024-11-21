@@ -1,0 +1,14 @@
+C:\Users\emmanuel.7931\source\repos\B1002\B1002\bin\Debug\net8.0\B1002.exe
+C:\Users\emmanuel.7931\source\repos\B1002\B1002\bin\Debug\net8.0\B1002.deps.json
+C:\Users\emmanuel.7931\source\repos\B1002\B1002\bin\Debug\net8.0\B1002.runtimeconfig.json
+C:\Users\emmanuel.7931\source\repos\B1002\B1002\bin\Debug\net8.0\B1002.dll
+C:\Users\emmanuel.7931\source\repos\B1002\B1002\bin\Debug\net8.0\B1002.pdb
+C:\Users\emmanuel.7931\source\repos\B1002\B1002\obj\Debug\net8.0\B1002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmanuel.7931\source\repos\B1002\B1002\obj\Debug\net8.0\B1002.AssemblyInfoInputs.cache
+C:\Users\emmanuel.7931\source\repos\B1002\B1002\obj\Debug\net8.0\B1002.AssemblyInfo.cs
+C:\Users\emmanuel.7931\source\repos\B1002\B1002\obj\Debug\net8.0\B1002.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel.7931\source\repos\B1002\B1002\obj\Debug\net8.0\B1002.dll
+C:\Users\emmanuel.7931\source\repos\B1002\B1002\obj\Debug\net8.0\refint\B1002.dll
+C:\Users\emmanuel.7931\source\repos\B1002\B1002\obj\Debug\net8.0\B1002.pdb
+C:\Users\emmanuel.7931\source\repos\B1002\B1002\obj\Debug\net8.0\B1002.genruntimeconfig.cache
+C:\Users\emmanuel.7931\source\repos\B1002\B1002\obj\Debug\net8.0\ref\B1002.dll
